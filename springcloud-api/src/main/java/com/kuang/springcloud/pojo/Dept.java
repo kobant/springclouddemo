@@ -23,6 +23,8 @@ public class Dept implements Serializable {//实体类
 	private long deptno;//主键
 	private String dname;
 
+	//我更新提交
+
 	//这个数据库存在于那个数据库
 	private String db_source;
 
