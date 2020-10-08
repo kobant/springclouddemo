@@ -1,0 +1,5 @@
+com\kuang\springcloud\DeptProvider_hystrix_8001.class
+com\kuang\springcloud\dao\DeptDao.class
+com\kuang\springcloud\control\DeptControl.class
+com\kuang\springcloud\Service\DeptService.class
+com\kuang\springcloud\Service\DeptServiceImpl.class
