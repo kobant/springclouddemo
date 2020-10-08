@@ -28,7 +28,8 @@ eureka:
 
 
 
-#info配置
+#info配置 55555
+
 info:
   app.name: kuang-springcloud
   company.name: blog.kuangstudy.com
