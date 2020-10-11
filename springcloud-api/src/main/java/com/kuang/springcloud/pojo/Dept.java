@@ -37,6 +37,7 @@ public class Dept implements Serializable {//实体类
 
 	//主干添加
 
+	//分支添加
 	public Dept(String dname) {
 		this.dname = dname;
 	}
